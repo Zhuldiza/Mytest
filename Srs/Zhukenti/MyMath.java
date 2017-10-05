@@ -31,7 +31,7 @@ public class MyMath {
         return min(min , c);
        
     }
-        public static int IsOdd(int a){
+        public static boolean IsOdd(int a){
             return (a %2 !=0);
             
         } 
