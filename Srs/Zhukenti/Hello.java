@@ -6,12 +6,8 @@ public class Hello {
         System.out.println("Byl zertxanalik jumis!");
         System.out.println("GitHub-pen jumis jasap uirenu!");
 
-        int a =MyMath.kvadrat(a=5);
-        int b= MyMath.kub(a=5);
-
-        System.out.println("a= " +a);
-        System.out.println("b= " +b);
 
         System.out.println(MyMath.max3(a=8 ,b=9 , c=12));
+        System.out.println(MyMath.max3(a=12 ,b=8 , c=15));
     }
 }
